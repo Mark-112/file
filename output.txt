@@ -1,0 +1,11 @@
+zadacha 1A (uberem lishnie probeli)
+otvet:
+df dfgdfg df asd df.
+
+zadacha 2, udalit slova, sovpadaushie s poslednim
+otvet:
+dfgdfg asd 
+
+zadacha 3, pomenyat 1 i poslednyu bukvu kazhdogo slova
+otvet:
+gfgdfd dsa 

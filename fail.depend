@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609059242 source:d:\gg\fail\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
